@@ -26,7 +26,7 @@ header_pages:
 title: Kedar Karhadkar
 author: ''
 email: kedar@math.ucla.edu
-baseurl: ""
+baseurl: "/~kedar"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kedar2
 linkedin_username: kedar-karhadkar-8babaa149
