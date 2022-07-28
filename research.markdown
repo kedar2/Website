@@ -21,4 +21,4 @@ Joshua Harrington, **Kedar Karhadkar**, Madeline Kohutka, Tessa Stevens, and Ton
 Joshua Harrington, Eugene Henninger-Voss, **Kedar Karhadkar**, Emily Robinson, and Tony W.H. Wong. Preprint: [arxiv:2008.09265](https://arxiv.org/abs/2008.09265).
 
 *Lattice models, differential forms, and the Yang-Baxter equation*\
-**Kedar Karhadkar**. Preprint: 
+**Kedar Karhadkar**. Preprint: [arXiv:2207.13282](https://arxiv.org/abs/2207.13282)
