@@ -23,12 +23,14 @@ header_pages:
  - teaching.markdown
 
 title: Kedar Karhadkar
-author: ''
+author: 'Kedar Karhadkar'
 email: kedar@math.ucla.edu
 baseurl: "/~kedar"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kedar2
-linkedin_username: kedar-karhadkar-8babaa149
+social:
+  github: kedar2
+  linkedin_username: kedar-karhadkar-8babaa149
+  google_scholar_id: test
 
 # Build settings
 theme: minima
