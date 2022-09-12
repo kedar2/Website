@@ -20,8 +20,7 @@
 
 header_pages:
  - research.markdown
- - about.markdown
- - CV.pdf
+ - teaching.markdown
 
 title: Kedar Karhadkar
 author: ''

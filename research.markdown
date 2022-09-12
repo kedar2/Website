@@ -7,7 +7,7 @@ navigation_weight: 2
 
 <h2> Recent </h2>
 *Oversquashing in GNNs through the lens of information contraction and graph expansion*\
-Pradeep Kr. Banerjee, **Kedar Karhadkar**, Yu Guang Wang, Uri Alon, and Guido Montufar. Submitted.
+Pradeep Kr. Banerjee, **Kedar Karhadkar**, Yu Guang Wang, Uri Alon, and Guido Montufar. 58th Annual Allerton Conference on Communication, Control and Computing (2022). Preprint: [arXiv:2208.03471](https://arxiv.org/abs/2208.03471).
 
 <h2> Undergraduate Research </h2>
 
